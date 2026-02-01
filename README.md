@@ -127,9 +127,4 @@ Just fork the repo and make a pull request!
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License** — see `LICENSE` for details.
-
----
 
